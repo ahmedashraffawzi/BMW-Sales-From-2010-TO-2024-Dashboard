@@ -25,4 +25,3 @@ This project analyzes BMW sales data from 2010 to 2024. The goal is to clean, tr
 - Top Model: **7 Series**
 - Average Sales: **380.24M**
 
-## 📂 Project Structure
